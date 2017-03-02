@@ -7,12 +7,5 @@ public class Probando {
 		super();
 		this.prueba = prueba;
 	}
-	private void sout() {
-		// TODO Auto-generated method stub
-
-	}
-	public void Prueba(){
-		System.out.println("paco");
-	}
 	
 }
